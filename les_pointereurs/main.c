@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
     int *p = NULL; 
     p = &x;
 
-    printf("Valeur sur la quelle pointe p=%d\n", *p); 
+    printf("Valeur sur la quelle pinte p=%d\n", *p); 
 
     *p = 44; 
 
