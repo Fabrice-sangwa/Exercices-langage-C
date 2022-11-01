@@ -17,8 +17,12 @@ int main(int argc, char *argv[]){
     //Affichage du premier élément du tableau
     printf("%d\n", *tableau); 
 
-    //  fficher l'adresse du tableau 
-    printf("%d", tableau); 
+    // Aficher l'adresse du tableau 
+    printf("%d\n", tableau); 
+
+    //Afficher la valeur du deuxième élément du tableau 
+    printf("%d\n", *(tableau + 1)); 
+
 
 
 
