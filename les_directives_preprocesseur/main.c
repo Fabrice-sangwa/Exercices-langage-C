@@ -8,6 +8,11 @@
                         printf("Vous n'etes pas majeur\n");\
                     }\
 
+#define age 23
+
+
+
+
 
 
 int main(int argc, char *argv[])
